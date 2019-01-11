@@ -1,0 +1,14 @@
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/bin/Debug/netcoreapp2.1/RestTest.deps.json
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/bin/Debug/netcoreapp2.1/RestTest.runtimeconfig.json
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/bin/Debug/netcoreapp2.1/RestTest.runtimeconfig.dev.json
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/bin/Debug/netcoreapp2.1/RestTest.dll
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/bin/Debug/netcoreapp2.1/RestTest.pdb
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.csprojAssemblyReference.cache
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.csproj.CoreCompileInputs.cache
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.RazorAssemblyInfo.cache
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.RazorAssemblyInfo.cs
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.AssemblyInfoInputs.cache
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.AssemblyInfo.cs
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.RazorTargetAssemblyInfo.cache
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.dll
+/Users/timothybotelho/Desktop/Code/C#/POCRestApi/RestTest/RestTest/obj/Debug/netcoreapp2.1/RestTest.pdb

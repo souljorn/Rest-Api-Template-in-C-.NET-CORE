@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{0A0DA0D7-8E74-4D0B-A0B7-459D2A17B79B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestTest/Startup.cs">
+    <Files>
+      <File FileName="RestTest/Controllers/EmployeeController.cs" Line="21" Column="1" />
+      <File FileName="RestTest/Filters/JsonExceptionFilter.cs" Line="10" Column="24" />
+      <File FileName="RestTest/Models/DataManager/EmployeeManager.cs" Line="12" Column="52" />
+      <File FileName="RestTest/Models/Repository/IDataRepository.cs" Line="20" Column="3" />
+      <File FileName="RestTest/Models/model.cs" Line="8" Column="39" />
+      <File FileName="RestTest/Models/ApiError.cs" Line="4" Column="8" />
+      <File FileName="RestTest/Properties/launchSettings.json" Line="1" Column="48" />
+      <File FileName="RestTest/appsettings.json" Line="1" Column="44" />
+      <File FileName="RestTest/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="RestTest/Program.cs" Line="11" Column="40" />
+      <File FileName="RestTest/Startup.cs" Line="19" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestTest" expanded="True">
+            <Node name="RestTest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Filters" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DataManager" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RestTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
