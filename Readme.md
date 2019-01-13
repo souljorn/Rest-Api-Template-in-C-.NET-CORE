@@ -15,10 +15,12 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Program Main Entry Point
 > **Files:** program.cs
+
 > **Description:** Very simply the main entry point for the entire application . 
 
 #### Startup Configurations
 > **Files:** startup.cs
+
 > **Description:** This is where all the services such as the Database, Routing, and DataRepository 
 > configurations are injected. This is also where the application can decide between development 
 > and production configurations. These configurations are written in launchsettings.json and 
@@ -26,6 +28,7 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Configuration Files
 > **Files:**    appsettings.json, appsettings.Development.json, launchsettings.json
+
 > **Description:** This is where the database connection strings are written and what ports the 
 > services are run on and how to set the configurations between development and production.
 
@@ -37,17 +40,20 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Data Repository Interface 
 > **Files:** IDataRepository.cs
+
 > **Description:**  This is the generic interface which is extended for each Entity Class such as 
 > Employee. This  defines all the functions that must be implemented in each Data Repository.
 
 #### Data Repository for Employees
 > **Files:** EmployeeManager.cs
+
 > **Description:**  This is where the Data Repository Interface class
 > is implemented for the Employee Entities. This is where the Crud operations are actually defined. 
 > They rely on the Entity Framework objects defined in the model.
 
 #### Controller for Employee
 > **Files:** EmployeeController.cs
+
 > **Description:** Controller handles the http requests to perform CRUD operations. Any  
 > interaction with database coming from the controller are handled by the Data Repository. This 
 > prevents the API endpoints from having to directly interact with the database. Also it allows the 
@@ -57,8 +63,9 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Filters for Bad Api Requests
 > **Files:** JsonExceptionFilter.cs, ApiError.cs
+
 > **Description:**  Middleware filter for API errors that filters out Api errors and return a JSON object with an explicit 
-> error and a stack trace, instead of a generic HTML response which has no >useful data. ApiError.cs descibes the shape of 
+> error and a stack trace, instead of a generic HTML response which has no useful data. ApiError.cs descibes the shape of 
 > the error message returned. 
 
 ---
