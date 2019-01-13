@@ -56,7 +56,9 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Filters for Bad Api Requests
 > **Files:** JsonExceptionFilter.cs, ApiError.cs
-> **Description:**  Middleware filter for API errors that filters out Api errors and return a JSON >object with an explicit error and a stack trace, instead of a generic HTML response which has no >useful data. ApiError.cs descibes the shape of the error message returned. 
+> **Description:**  Middleware filter for API errors that filters out Api errors and return a JSON object with an explicit 
+> error and a stack trace, instead of a generic HTML response which has no >useful data. ApiError.cs descibes the shape of 
+> the error message returned. 
 
 ---
 
