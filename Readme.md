@@ -34,6 +34,7 @@ A Restful ApI was created using the ASP .NET Core framework in C# as a proof of 
 
 #### Model
 > **Files:** model.cs
+
 > **Description:** This is where the shape of the employee entity is defined. This is the model of the data that the 
 > database and all layers expect to see. This is where the first definition of the 
 > Schema needs to be defined outside of the database. 
